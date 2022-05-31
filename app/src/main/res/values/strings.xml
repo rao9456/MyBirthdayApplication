@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Birthday Application</string>
+    <string name="congrats_on_another_trip_around_the_sun_i_hope_this_day_is_full_of_cake_memories_and_fun">Congrats on another trip around the sun! I hope this day is full of cake, memories, and fun.</string>
+    <string name="todo">TODO</string>
+</resources>
